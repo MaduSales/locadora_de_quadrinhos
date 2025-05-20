@@ -1,4 +1,5 @@
 // Locadora de HQs
+// Aluguel por SEMANA (1, 2, 3)
 
 #include <iostream>
 #include <ctime>
